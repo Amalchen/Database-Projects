@@ -28,7 +28,9 @@ Notes:
   
    ii. Repeated code.
   
-   iii. Bad "breaking" into files. Didn't create a single function.
+   iii. Bad "breaking" into files.
+   
+   iv. Didn't create functions.
   
 2) After ordering, when clicking "Checkout", the Order DB-table will clear your orders and your reservation (if it exists).
 3) Smoker, non-smoker option was never implemented.
