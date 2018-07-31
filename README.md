@@ -2,7 +2,7 @@
 
 I did this project back in 2017.
 It has bugs and is not completely finished.
-Sadly, I was't attending the lectures of my university in DBs.
+Sadly, I wasn't attending the lectures of my university in DBs.
 Used the instructional videos of Alex Garrett in the newboston channel:
 https://www.youtube.com/playlist?list=PL442FA2C127377F07
 to make this project.
