@@ -1,4 +1,4 @@
-# Database-Project
+# Database Restaurant Project
 
 I did this project back in 2017.
 It has bugs and is not completely finished.
