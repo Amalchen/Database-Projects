@@ -1,5 +1,5 @@
 <?php
-     require 'core.inc.php';
-     session_destroy();
-     header('Location: '.$httpReferer);
+    require 'core.inc.php';
+    session_destroy();
+    header('Location: ' . $httpReferer);
 ?>
