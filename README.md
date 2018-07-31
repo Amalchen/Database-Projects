@@ -24,11 +24,11 @@ Missing:
 Notes:
 1) Code needs some serious clean-up
 
-  i. Many lines extend further from the terminal safe 70 length.
+   i. Many lines extend further from the terminal safe 70 length.
   
-  ii. Repeated code.
+   ii. Repeated code.
   
-  iii. Bad "breaking" into files. Didn't create a single function.
+   iii. Bad "breaking" into files. Didn't create a single function.
   
 2) After ordering, when clicking "Checkout", the Order DB-table will clear your orders and your reservation (if it exists).
 3) Smoker, non-smoker option was never implemented.
